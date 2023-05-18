@@ -15,3 +15,17 @@ Resources
 ## Description
 How to implement caching with different replacement policy algorithms
 
+## Tasks
+* [0-basic_cache.py](0-basic_cache.py)
+* [0-main.py](0-main.py)
+* [1-fifo_cache.py](1-fifo_cache.py)
+* [1-main.py](1-main.py)
+* [100-lfu_cache.py](100-lfu_cache.py)
+* [2-lifo_cache.py](2-lifo_cache.py)
+* [2-main.py](2-main.py)
+* [3-lru_cache.py](3-lru_cache.py)
+* [3-main.py](3-main.py)
+* [4-main.py](4-main.py)
+* [4-mru_cache.py](4-mru_cache.py)
+* [README.md](README.md)
+* [base_caching.py](base_caching.py)
