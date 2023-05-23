@@ -13,3 +13,18 @@ Resources
 ## Description
 Using Flask i18n concepts
 
+## Tasks
+* [0-app.py](0-app.py)
+* [1-app.py](1-app.py)
+* [2-app.py](2-app.py)
+* [3-app.py](3-app.py)
+* [4-app.py](4-app.py)
+* [5-app.py](5-app.py)
+* [6-app.py](6-app.py)
+* [7-app.py](7-app.py)
+* [README.md](README.md)
+* [app.py](app.py)
+* [babel.cfg](babel.cfg)
+* [messages.pot](messages.pot)
+* [templates](templates)
+* [translations](translations)
