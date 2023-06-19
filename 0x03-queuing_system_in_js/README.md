@@ -13,3 +13,22 @@ Resources
 
 ## Description
 How to queue operations in js using redis db as the caching technique
+## Tasks
+* [0-redis_client.js](0-redis_client.js)
+* [1-redis_op.js](1-redis_op.js)
+* [100-seat.js](100-seat.js)
+* [2-redis_op_async.js](2-redis_op_async.js)
+* [4-redis_advanced_op.js](4-redis_advanced_op.js)
+* [5-publisher.js](5-publisher.js)
+* [5-subscriber.js](5-subscriber.js)
+* [6-job_creator.js](6-job_creator.js)
+* [6-job_processor.js](6-job_processor.js)
+* [7-job_creator.js](7-job_creator.js)
+* [7-job_processor.js](7-job_processor.js)
+* [8-job.js](8-job.js)
+* [8-job.test.js](8-job.test.js)
+* [9-stock.js](9-stock.js)
+* [README.md](README.md)
+* [dump.rdb](dump.rdb)
+* [main.js](main.js)
+* [package.json](package.json)
